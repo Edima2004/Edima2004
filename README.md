@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vincent-Thompson Edima,
-- 🌱 I have built multiple projects in React JS in combination with Node Js (MERN Stack)
-- ✨ I have also built projects in Next js with prisma as my database.
+- 👥 I was part of a team of frontend Developers resposible for building the frontend of a large scale e-commerce WebApp for the sale, rent, and lease of landed properties in Nigeria. My task alongside working on my assigned pages was to build a Context Api to house most of the functionality as well as fix bugs in the Frontend and get rid of DRY codes.
+- 🌱 I have built multiple projects with React JS in combination with Node Js (MERN Stack)
+- ✨ I have also built projects with Next js with prisma as my database.
 - 🔥 My React e-commerce WebApp makes use of context-Api to handle most of the functionality alongside the implementation of stripe payment infrastructure to handle the checkout page (live site- marvel-kitchen.netlify.app ).
 
 - 💞️ I’m looking to collaborate on interesting and exciting projects and offer my full support to the team
