@@ -1,11 +1,23 @@
-- 👋 Hi, I’m Vincent-Thompson Edima,
-- 👥 I was part of a team of frontend Developers resposible for building the frontend of a large scale e-commerce WebApp for the sale, rent, and lease of landed properties in Nigeria. My task alongside working on my assigned pages was to build a Context Api to house most of the functionality as well as fix bugs in the Frontend and get rid of DRY codes.
-- 🌱 I have built multiple projects with React JS in combination with Node Js (MERN Stack)
-- ✨ I have also built projects with Next js with prisma as my database.
-- 🔥 My React e-commerce WebApp makes use of context-Api to handle most of the functionality alongside the implementation of stripe payment infrastructure to handle the checkout page (live site- marvel-kitchen.netlify.app ).
+# 👋 Hi, I’m Vincent-Thompson Edima
 
-- 💞️ I’m looking to collaborate on interesting and exciting projects and offer my full support to the team
-- 📫 How to reach me? You can send an email to edimavthompson@gmail.com ... I would greatly appreciate any interesting project to work together on and I'm open to complex ones too.
+* 🎓 Electrical & Electronics Engineering graduate from Federal University of Technology Akure with a growing focus on Cybersecurity, SOC Operations, and Software Engineering.
+
+* 💻 I have experience building frontend and full-stack web applications using React.js, Next.js, Node.js, Prisma, and the MERN stack.
+
+* 👥 Previously worked as part of a frontend development team responsible for building a large-scale real estate web application for the sale, rent, and lease of landed properties in Nigeria. My responsibilities included building reusable components, implementing Context API functionality, fixing frontend bugs, and improving code maintainability by reducing repetitive (DRY) code.
+
+* 🚀 I have built multiple projects with React.js and Next.js, including e-commerce applications with Stripe payment integration and scalable state management using Context API.
+
+* 🛡️ Currently transitioning deeper into Cybersecurity with hands-on experience in SOC analysis, threat detection, Linux environments, Wazuh SIEM, Suricata, VirusTotal integrations, and security lab development.
+
+* 🔬 I have built and managed my own SOC lab environment using Kali Linux and Ubuntu for security monitoring, detection engineering, and malware behavior analysis projects.
+
+* 📚 Currently expanding my skills in penetration testing, security monitoring, and defensive security operations while combining my engineering and software development background.
+
+* 💞️ I’m open to collaborating on impactful projects involving Cybersecurity, SOC Operations, Web Development, Automation, or Software Engineering.
+
+* 📫 Reach me at: **[edimavthompson@gmail.com](mailto:edimavthompson@gmail.com)**
+
 
 <!---
 Edima2004/Edima2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
